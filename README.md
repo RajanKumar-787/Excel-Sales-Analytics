@@ -2,7 +2,7 @@
 
 ## Sales Report:
 
-**1.** [Customer Performance Report](https://github.com/RajanKumar-787/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf)
+**1.** _[Customer Performance Report](https://github.com/RajanKumar-787/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf)_
 
 - This report delivers an in-depth analysis of net sales data from the fiscal years 2019 to 2021.
 
@@ -10,7 +10,7 @@
 
 - By leveraging these insights, we aim to drive growth and strengthen our partnerships.
 
-**2.** [Market Performance Report vs. Sales Target](https://github.com/RajanKumar-787/Excel-Sales-Analytics/blob/main/Market%20Performance%20Report%20vs.%20Sales%20Target.pdf)
+**2.** _[Market Performance Report vs. Sales Target](https://github.com/RajanKumar-787/Excel-Sales-Analytics/blob/main/Market%20Performance%20Report%20vs.%20Sales%20Target.pdf)_
 
 - This report analyzes net sales data for markets from the fiscal years 2019 to 2021 and compares 2021 sales with our targets.
 
